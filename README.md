@@ -26,7 +26,7 @@ Organized, responsible, proactive, and highly motivated 💪. Currently seeking 
 ### 🛠 Languages and Tools: ⚙️
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,wordpress,photoshop" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,wordpress,photoshop,blender,unity,unreal" />
 </p>
 
 

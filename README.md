@@ -29,6 +29,3 @@ Organized, responsible, proactive, and highly motivated 💪. Currently seeking 
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,wordpress,photoshop,blender,unity,unreal" />
 </p>
 
-
-![Zalone03's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zalone03&show_icons=true&theme=highcontrast&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zalone03&theme=highcontrast&layout=donut&hide_border=true)

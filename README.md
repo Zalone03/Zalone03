@@ -1,4 +1,4 @@
-<img width="1725" height="691" alt="banner" src="https://github.com/user-attachments/assets/d779ff43-db77-42b3-b0d0-ee5e40f57195" />
+👨‍💻<h1>Guilherme Vinícius de Souza<h/1>
 <h3 align="left">📫 Connect with me</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vin%C3%ADcius-de-souza-74b09429a/)

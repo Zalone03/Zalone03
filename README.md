@@ -12,7 +12,7 @@ I'm a junior developer with strong communication skills and a solid ability to l
 I have experience with technology and digital marketing, mainly focused on content creation, organic growth strategies, and building practical web projects 🚀. I use development and design tools daily and enjoy creating clean, organized, and functional solutions ✨.
 
 ### 🛠 Tech Stack ⚙️
-- **Languages:** HTML, CSS, JavaScript 💻  
+- **Languages:** HTML, CSS, JavaScript, Node, React 💻  
 - **Web:** Website creation, responsive layouts, basic SEO 🌐  
 - **Tools:** Git, GitHub, VS Code, Canva, Photoshop, Microsoft Office 🧰  
 - **Concepts:** Clean Code, UX/UI basics, organization, problem-solving 🧠
@@ -26,6 +26,6 @@ Organized, responsible, proactive, and highly motivated 💪. Currently seeking 
 ### 🛠 Languages and Tools: ⚙️
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,wordpress,photoshop,blender,unity,unreal" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,wordpress,photoshop,blender,unity,unreal,react" />
 </p>
 

@@ -120,11 +120,11 @@ descricao: "Plataforma De UX voltado ao mercado Textil"
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zalone03&show_icons=true&theme=github-dark-dimmed&hide_border=true&bg_color=00000000&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Zalone03&show_icons=true&theme=github-dark-dimmed&hide_border=true&bg_color=00000000&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" alt="Stats" />
 
 <br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zalone03&layout=compact&theme=github-dark-dimmed&hide_border=true&bg_color=00000000&title_color=00FF9C&text_color=c9d1d9" alt="Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalone03&layout=compact&theme=github-dark-dimmed&hide_border=true&bg_color=00000000&title_color=00FF9C&text_color=c9d1d9" alt="Langs" />
 
 </div>
 

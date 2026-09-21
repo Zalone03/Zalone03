@@ -9,20 +9,23 @@
 ╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
 ```
 # Guilherme Vinícius de Souza
-**Fullstack Developer** · Estudante de Análise e Desenvolvimento de Sistemas
+**Full Stack & Automação** · React, Python, Node.js e Docker
+<br>
+Construindo plataformas e melhorando resultados
 
 <br>
 
-![status](https://img.shields.io/badge/status-atuando_como_Dev-00FF9C?style=flat-square&labelColor=0d1117)
-![hackathon](https://img.shields.io/badge/🏆_3º_lugar-Hackathon_IFSC-0d1117?style=flat-square&labelColor=000000)
-![formacao](https://img.shields.io/badge/formação-ADS_(cursando)-0d1117?style=flat-square&labelColor=000000)
+![status](https://img.shields.io/badge/🟢_status-dev_em_tempo_integral-0d1117?style=flat-square&labelColor=000000)
+![foco](https://img.shields.io/badge/foco-automação_&_integração-0d1117?style=flat-square&labelColor=000000)
+![hackathon](https://img.shields.io/badge/🏆_3º_lugar-Hackathon_IFSC_2026-0d1117?style=flat-square&labelColor=000000)
+![formacao](https://img.shields.io/badge/formação-ADS_IFSC_(cursando)-0d1117?style=flat-square&labelColor=000000)
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/In-linkedin-000000?style=flat-square&labelColor=00FF9C&color=000000)](https://www.linkedin.com/in/guilherme-vin%C3%ADcius-de-souza-74b09429a/)
+[![LinkedIn](https://img.shields.io/badge/In-linkedin-000000?style=flat-square&labelColor=00FF9C&color=000000)](https://www.linkedin.com/in/guilherme-vin%C3%ADcius-souza/)
 [![Instagram](https://img.shields.io/badge/instagram-black?style=flat-square&logo=instagram&logoColor=00FF9C)](https://www.instagram.com/zalone03/)
 [![Gmail](https://img.shields.io/badge/email-black?style=flat-square&logo=gmail&logoColor=00FF9C)](mailto:guilhermevinidesouza@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/whatsapp-black?style=flat-square&logo=whatsapp&logoColor=00FF9C)](https://wa.me/554792296551)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-black?style=flat-square&logo=whatsapp&logoColor=00FF9C)](https://wa.me/5547992296551)
 
 </div>
 
@@ -30,11 +33,15 @@
 📁 guilherme-souza/
 ├── 📄 sobre.md
 ├── 📁 experiencia/
-│   └── 📄 fullstack-developer.md
-├── 📁 formacao/
-│   └── 📄 analise-e-desenvolvimento-de-sistemas.md
+│   └── 📄 dev-fullstack-rpa.md
+├── 📁 projetos/
+│   ├── 🤖 painel-de-robos-rpa.md
+│   ├── 💱 conversor-de-moedas.md
+│   └── 🗣️  tradutor-com-voz.md
 ├── 📁 conquistas/
 │   └── 🏆 3o-lugar-hackathon-ifsc.md
+├── 📁 formacao/
+│   └── 📄 analise-e-desenvolvimento-de-sistemas.md
 └── 📁 stack/
     └── ⚙️  ferramentas-e-stack.exe
 ```
@@ -43,43 +50,78 @@
 
 ### 📄 sobre.md
 
-Sou desenvolvedor **Fullstack**, atuando com JavaScript de ponta a ponta, React no front, Node no back. Antes de entrar de vez pro código, trabalhei com marketing digital e TI: criação de conteúdo e crescimento orgânico, o que me deu uma bagagem forte em comunicação, organização e entender o que realmente entrega valor pra quem usa o produto.
+Sou desenvolvedor **Full Stack** e trabalho principalmente onde o software encosta no processo real da
+empresa: telas em **React**, back-end e automações em **Python**, banco **PostgreSQL** e ambientes em
+**Docker**.
 
-No dia a dia: aprendo rápido, mantenho a calma, colaboro bem em time e não fujo de puxar a frente quando precisa. Gosto de resolver o problema certo, não só escrever código e sigo estudando pra evoluir tecnicamente todos os dias.
+Hoje, na Oliveira & Antunes Advogados, construí do zero o portal que a operação usa para acompanhar os
+robôs de RPA: status de execução, logs, histórico e métricas em um lugar só. Junto dele, escrevi um agente
+em Python que faz a ponte entre containers Linux e as máquinas Windows, para que ninguém da equipe precise
+abrir um terminal só para disparar uma automação.
+
+Antes do código vieram o suporte de TI e o marketing digital. Parece desvio, mas é o que me ensinou a
+conversar com quem vai usar o sistema, entender o processo antes de programar e medir se aquilo funcionou
+de verdade.
+
+Do jeito que eu trabalho: prefiro entregar pequeno e terminado a grande e pela metade, gosto de resolver o
+problema certo em vez de escrever código bonito, e sigo estudando todo dia.
 
 <br>
 
-### 📁 experiencia/fullstack-developer.md
+### 📁 experiencia/dev-fullstack-rpa.md
 
 ```yaml
-função: Desenvolvedor Fullstack
-front: [HTML, CSS, JavaScript, React]
-back:  [Node.js, JavaScript]
-foco:  [Clean Code, UX/UI, resolução de problemas, organização]
+empresa:  Oliveira & Antunes Advogados
+funcao:   Auxiliar de Desenvolvimento (Full Stack & RPA)
+entregas:
+  - portal de governança e monitoramento de RPAs (React + Python + PostgreSQL)
+  - agente Python de ponte entre containers Linux e ambientes Windows
+  - automações de processos jurídicos e administrativos
+  - padrões de arquitetura e versionamento em uma área criada do zero
+front:    [React, JavaScript, HTML, CSS, TailwindCSS]
+back:     [Python, Node.js, C#, APIs REST]
+dados:    [PostgreSQL, MySQL, SQL]
+infra:    [Docker, Linux, Git, GitHub]
 ```
 
 <br>
 
-### 🎓 formacao/analise-e-desenvolvimento-de-sistemas.md
+### 📁 projetos/
 
-```yaml
-curso: Análise e Desenvolvimento de Sistemas
-status: cursando
-```
+| Projeto | O que é | Stack |
+|---|---|---|
+| **[Painel de robôs RPA](https://github.com/Zalone03/ProjetoOeA)** · [ver online](https://testerpa.netlify.app/) | Interface de monitoramento de robôs: lista, status da última execução, histórico e logs. Foi o desafio técnico que me abriu a vaga de desenvolvedor. | React, Vite, TailwindCSS, Axios, API em Python |
+| **[Conversor de moedas](https://github.com/Zalone03/Projeto-Pagina-Conversora-de-Moedas)** | Conversão instantânea com cotação em tempo real, seleção visual por bandeiras e interface responsiva. | JavaScript, API de câmbio |
+| **[Tradutor com voz](https://github.com/Zalone03/ProjetoTradutor)** | Tradutor web com entrada por voz e saída em áudio, usando as APIs do navegador. | JavaScript, Web Speech API |
+| **[Batalha de tipos Pokémon](https://github.com/Zalone03/Pagina-Pok-mon-Batalha-de-Tipos)** | Jogo de duelo estratégico com a tabela de vantagens de tipo. Lógica pura, sem framework. | HTML, CSS, JavaScript |
+| **[Site de clínica psicológica](https://github.com/Zalone03/Projeto-Pagina-Clinica-Psicologica)** | Site institucional responsivo, com foco em clareza e acessibilidade. | HTML, CSS, JavaScript |
 
 <br>
 
 ### 🏆 conquistas/3o-lugar-hackathon-ifsc.md
 
 ```yaml
-premio: 3º Lugar
-evento: Hackathon IFSC
+premio:  3º lugar
+evento:  Hackathon IFSC 2026
 projeto: "Ponto Justo"
-ano: "2026"
-descricao: "Plataforma De UX voltado ao mercado Textil"
+tema:    "plataforma voltada ao mercado têxtil"
 ```
 
-> ✏️ Durante o evento, nossa equipe desenvolveu uma aplicação completa, focada em resolver um problema real de forma prática, funcional e escalável. Foram dias intensos de desenvolvimento, validação de ideias, ajustes técnicos e tomada de decisões sob pressão.
+> Dias intensos de desenvolvimento, validação de ideia e decisão técnica sob pressão, em equipe. O que mais
+> pesou não foi a parte técnica: foi combinar escopo, cortar o que não cabia no prazo e entregar algo que
+> funcionava de ponta a ponta na hora da apresentação.
+
+<br>
+
+### 🎓 formacao/analise-e-desenvolvimento-de-sistemas.md
+
+```yaml
+curso:      Análise e Desenvolvimento de Sistemas
+instituicao: IFSC - Instituto Federal de Santa Catarina
+periodo:    2026 - 2029
+status:     cursando
+extra:      Formação Full Stack DevClub (JavaScript, Node, React, APIs REST)
+```
 
 <br>
 
@@ -91,28 +133,28 @@ descricao: "Plataforma De UX voltado ao mercado Textil"
 └──────────────────────────────────────────────────────────┘
 ```
 
-  #### 💻 Frontend
+  #### 💻 Front-end
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&theme=dark" alt="Front-end" />
   </a>
 
   <br>
 
-  #### ⚙️ Backend & CMS
+  #### ⚙️ Back-end & Dados
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,wordpress&theme=dark" alt="Backend e CMS" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,cs,postgres,mysql&theme=dark" alt="Back-end e dados" />
   </a>
 
   <br>
 
-  #### 🛠️ Ferramentas & Design
+  #### 🐳 Infra & Ferramentas
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop&theme=dark" alt="Ferramentas e Design" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,figma&theme=dark" alt="Infra e ferramentas" />
   </a>
 
   <br>
 
-  <sub><i>Aprendendo e evoluindo a stack diariamente 🚀</i></sub>
+  <sub><i>Automação, integração e o que mais o problema pedir 🚀</i></sub>
 
 </div>
 
@@ -122,7 +164,7 @@ descricao: "Plataforma De UX voltado ao mercado Textil"
 
 <div align="center">
 
-**guilhermevinidesouza@gmail.com** aberto a novos projetos, ideias e conversas sobre tecnologia.
+**guilhermevinidesouza@gmail.com** · aberto a novos projetos, ideias e conversas sobre tecnologia.
 
 <br>
 

@@ -24,6 +24,7 @@
 
 ```
 📁 guilherme-souza/
+├── 📟 inicio.sh
 ├── 📄 sobre.md
 ├── 📁 experiencia/
 │   └── 📄 dev-fullstack-rpa.md
@@ -41,12 +42,17 @@
 ```
 
 <br>
-
-### 📄 sobre.md
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <p align="center">
-  <img src="assets/terminal.gif" width="720" alt="Terminal animado: whoami, lista de projetos, conquista no Hackathon IFSC 2026 e contato" />
+  <img src="assets/terminal.gif" width="720" alt="Terminal animado navegando pelas pastas do perfil" />
 </p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<br>
+
+### 📄 sobre.md
 
 Sou desenvolvedor **Full Stack** e trabalho principalmente onde o software encosta no processo real da
 empresa: telas em **React**, back-end e automações em **Python**, banco **PostgreSQL** e ambientes em
@@ -69,7 +75,7 @@ problema certo em vez de escrever código bonito, e sigo estudando todo dia.
 ### 📁 experiencia/dev-fullstack-rpa.md
 
 ```yaml
-empresa:  Oliveira & Antunes Advogados
+empresa:  Oliveira Ritzmann Advogados
 funcao:   Auxiliar de Desenvolvimento (Full Stack & RPA)
 entregas:
   - portal de governança e monitoramento de RPAs (React + Python + PostgreSQL)

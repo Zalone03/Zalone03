@@ -1,17 +1,6 @@
 <div align="center">
 
-```
-███████╗ █████╗ ██╗      ██████╗ ███╗   ██╗███████╗
-╚══███╔╝██╔══██╗██║     ██╔═══██╗████╗  ██║██╔════╝
-  ███╔╝ ███████║██║     ██║   ██║██╔██╗ ██║█████╗  
- ███╔╝  ██╔══██║██║     ██║   ██║██║╚██╗██║██╔══╝  
-███████╗██║  ██║███████╗╚██████╔╝██║ ╚████║███████╗
-╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
-```
-# Guilherme Vinícius de Souza
-**Full Stack & Automação** · React, Python, Node.js e Docker
-<br>
-Construindo plataformas e melhorando resultados
+<img src="assets/header.svg" width="100%" alt="Guilherme Vinícius de Souza (Zalone), dev full stack e automação: React, Python, Node.js e Docker" />
 
 <br>
 
@@ -26,6 +15,10 @@ Construindo plataformas e melhorando resultados
 [![Instagram](https://img.shields.io/badge/instagram-black?style=flat-square&logo=instagram&logoColor=00FF9C)](https://www.instagram.com/zalone03/)
 [![Gmail](https://img.shields.io/badge/email-black?style=flat-square&logo=gmail&logoColor=00FF9C)](mailto:guilhermevinidesouza@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/whatsapp-black?style=flat-square&logo=whatsapp&logoColor=00FF9C)](https://wa.me/5547992296551)
+
+<br>
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 </div>
 
@@ -42,13 +35,18 @@ Construindo plataformas e melhorando resultados
 │   └── 🏆 3o-lugar-hackathon-ifsc.md
 ├── 📁 formacao/
 │   └── 📄 analise-e-desenvolvimento-de-sistemas.md
-└── 📁 stack/
-    └── ⚙️  ferramentas-e-stack.exe
+├── 📁 stack/
+│   └── ⚙️  ferramentas-e-stack.exe
+└── 🐍 contribuicoes.svg
 ```
 
 <br>
 
 ### 📄 sobre.md
+
+<p align="center">
+  <img src="assets/terminal.gif" width="720" alt="Terminal animado: whoami, lista de projetos, conquista no Hackathon IFSC 2026 e contato" />
+</p>
 
 Sou desenvolvedor **Full Stack** e trabalho principalmente onde o software encosta no processo real da
 empresa: telas em **React**, back-end e automações em **Python**, banco **PostgreSQL** e ambientes em
@@ -127,6 +125,10 @@ extra:      Formação Full Stack DevClub (JavaScript, Node, React, APIs REST)
 
 <div align="center">
 
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<br><br>
+
 ```
 ┌──────────────────────────────────────────────────────────┐
 │                   TECNOLOGIAS & STACK.EXE                │
@@ -160,9 +162,23 @@ extra:      Formação Full Stack DevClub (JavaScript, Node, React, APIs REST)
 
 <br>
 
----
+### 🐍 contribuicoes.svg
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zalone03/Zalone03/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zalone03/Zalone03/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Zalone03/Zalone03/output/github-snake-dark.svg" width="100%" alt="Cobrinha comendo o gráfico de contribuições do GitHub" />
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<br>
 
 **guilhermevinidesouza@gmail.com** · aberto a novos projetos, ideias e conversas sobre tecnologia.
 

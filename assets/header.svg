@@ -107,7 +107,7 @@
   <!-- linha digitando -->
   <text x="334" y="262" class="type" fill-opacity="0.55">›</text>
   <text x="356" y="262" class="type" textLength="343.2" lengthAdjust="spacing" clip-path="url(#t0)">dev full stack &amp; automação</text>
-  <text x="356" y="262" class="type" textLength="448.8" lengthAdjust="spacing" clip-path="url(#t1)">construo portais para robôs de RPA</text>
+  <text x="356" y="262" class="type" textLength="448.8" lengthAdjust="spacing" clip-path="url(#t1)">transformo processos em software</text>
   <text x="356" y="262" class="type" textLength="369.6" lengthAdjust="spacing" clip-path="url(#t2)">react, python, node e docker</text>
   <text x="356" y="262" class="type" textLength="462.0" lengthAdjust="spacing" clip-path="url(#t3)">aberto a novos projetos e conversas</text>
   <rect x="359" y="243" width="12" height="23" fill="#00FF9C">
